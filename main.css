@@ -3,19 +3,37 @@ P{
 
     font-size: X-LARGE ;
 }
+.imagem{
+font-size: x-large;
+    height: 400px;
+    
+        width: 400px;
+    
+}
 
- .kYAN{
-     color: brown;
-    font-size: x-large;
-    text-shadow: 3CAP;
+.bibliografia{
+height: 70%;
+ background: black;
+ color: white;
+  font-size: x-large;
 
- }
-#DRILL{
-
-  text-align: center;
-
+}
+.Diasantesdemandrake{background: black;
+    height: 70%;
+     color: white;
+     font-size: x-large;
 }
 #Kyan{
     text-align: center;
+    background: black;
+    color: white;
+    font-size: 500%;
 }
-#Diasantesdemandrake{text-align: center;}
+
+
+ .tem{      
+
+height: 50px;
+
+
+ }
