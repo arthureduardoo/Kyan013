@@ -1,39 +1,72 @@
 P{
 
-
+ 
     font-size: X-LARGE ;
 }
 .imagem{
 font-size: x-large;
-    height: 400px;
-    
-        width: 400px;
+    height: 375px;
+     
+        width: 375x;
     
 }
 
 .bibliografia{
-height: 70%;
- background: black;
- color: white;
-  font-size: x-large;
+height: 30%;
+ background: gray;
+ color: black;
+  font-size:400%;
 
 }
-.Diasantesdemandrake{background: black;
-    height: 70%;
-     color: white;
-     font-size: x-large;
+.Diasantesdemandrake{background: gray;
+    height: 30%;
+     color: black;
+     font-size: 400%;
+  
 }
 #Kyan{
-    text-align: center;
+    
     background: black;
     color: white;
-    font-size: 500%;
+    font-size: 400%;
+ 
 }
 
 
- .tem{      
+ 
 
-height: 50px;
+.parte1 {
+    background: black;
+  color: white;
+  
+}
+.parte2{background: black;
+ color: white;
+}
 
+.flex-container{
+    display: flex;
+}
 
- }
+.linha-filme {
+    flex-direction: row-reverse;
+    justify-content: space-around;
+}
+
+.parte1 {
+    width: 45%;
+}
+
+.flex-container{
+    display: flex
+    ;}
+.linha{
+
+flex-direction: row-reverse;
+justify-content: space-around;
+
+}
+.parte2{
+
+    width: 45%;
+}
